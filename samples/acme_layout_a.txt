@@ -1,0 +1,11 @@
+ACME INDUSTRIAL SUPPLY LTD            INVOICE
+VAT: GB123456789                      Invoice No: INV-2041
+                                      Date: 2026-10-03   Due: 2026-11-02
+Bill to: Northwind Traders            PO: PO-7781
+
+Description              Qty   Unit     Amount
+Steel brackets (box)      10   42.50    425.00
+Delivery                   1   25.00     25.00
+
+Subtotal 450.00   VAT 20% 90.00   TOTAL GBP 540.00
+Pay to: IBAN GB29NWBK60161331926819  Sort code 60-16-13
